@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: WE OFER
+    title: WE OFFER
     subtitle: In a Glance
     align: center
     grid_items:
