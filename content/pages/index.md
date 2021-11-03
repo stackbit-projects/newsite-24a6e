@@ -7,9 +7,6 @@ sections:
       Kode Kampung adalah penyedia layanan jasa pembuatan Website dan desain
       website
     actions:
-      - label: App Store
-        url: /pricing
-        style: primary
       - label: Google Play
         url: /pricing
         style: secondary
