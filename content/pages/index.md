@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Apa Itu "Kode Kampung"
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: >-
+      Kode Kampung adalah penyedia layanan jasa pembuatan Website dan desain
+      website
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
