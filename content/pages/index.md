@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Apa Yang Kami Ta
+    title: WE OFER
     subtitle: In a Glance
     align: center
     grid_items:
